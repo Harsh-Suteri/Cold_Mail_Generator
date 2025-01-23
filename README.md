@@ -6,22 +6,16 @@ Real-time extraction of job listings from career pages.
 Personalized email generation based on job descriptions.
 Integration of relevant portfolio links using a vector database.
 Built with Generative AI and Large Language Models (LLMs) for high-quality email drafts.
+
 Technologies Used:
 Python
 Streamlit
 LangChain
 GROQ API
 Vector Database
+
 How to Run:
 Clone the repository.
-Install the required dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
+Install the required dependencies: pip install -r requirements.txt
 Set up your GROQ API key in the .env file.
-Run the Streamlit app:
-bash
-Copy
-Edit
-streamlit run app/main.py
+Run the Streamlit app:streamlit run app/main.py
