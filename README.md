@@ -19,3 +19,5 @@ Clone the repository.
 Install the required dependencies: pip install -r requirements.txt
 Set up your GROQ API key in the .env file.
 Run the Streamlit app:streamlit run app/main.py
+
+![image alt][https://github.com/Harsh-Suteri/Cold_Mail_Generator/blob/f60451f43c90164ac4fd797c5af8ca4869cdf721/Screenshot%202025-01-23%20141735.png]
